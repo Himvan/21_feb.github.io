@@ -93,6 +93,8 @@ var min=get_min();
 console.log(min);
 var max=get_max();
 console.log(max);
+var aver=mean();
+console.log(aver);
 var frequency=mode();
 console.log(frequency);
 
